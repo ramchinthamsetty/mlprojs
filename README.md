@@ -1,2 +1,4 @@
-# mlprojs
-Machine Learning Projects
+# ML & AI PROJECTS
+
+ - Regression Algorithms
+ 
